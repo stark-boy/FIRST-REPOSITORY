@@ -1,0 +1,9 @@
+#Hello!! This is my first upload to git using git bash
+#function to find whether a no is prime or not. it returns 1 if no is prime else retrns 0.Dont mind the complexity :3
+def prime(no):
+    p=1
+    for i in range(2,no):
+	    if(no%i is 0):
+		    p=0
+    return(p)
+    
