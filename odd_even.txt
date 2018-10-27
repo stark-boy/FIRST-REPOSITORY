@@ -1,5 +1,5 @@
 #this is just out of exitement
-#function to find whether no is even or odd.Returns one if no is even else returns 0. :3
+#function to find whether the given number is even or odd and returns one if number is even else returns 0. :3
 def odd_even(no):
     if(no%2 is 0):
         return(1)
